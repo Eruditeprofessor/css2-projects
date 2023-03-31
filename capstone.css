@@ -1,0 +1,56 @@
+body{
+    background-color: #264653 ;
+    border-right: 45px solid  #2a9d8f ;
+    border-bottom: 45px solid  #2a9d8f ;
+    border-left: 45px solid  #2a9d8f ;
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#pone{
+    color:white;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+#ptwo{
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 20px;
+}
+label{
+    color:white;
+    text-align: center;
+    margin-left: 45px; 
+}
+input{
+    background-color: white;
+    /* margin-left: 450px; */
+}
+button{
+    border: 2px solid white;
+    border-radius: 15%;
+    height: 50px;
+    color: black;
+    background-color: orange;
+    margin-left:35px ;  
+    margin-bottom: 5px; 
+}
+
+#email{
+padding-left: 15px;
+}
+form{
+    margin-left:500px; 
+}
